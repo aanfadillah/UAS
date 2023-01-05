@@ -68,22 +68,27 @@ class daftarnilai():
 
 * **Output daftar_nilai**
 
-<img width="413" alt="j5 1" src="https://user-images.githubusercontent.com/115516607/210513194-f3706531-005d-4203-b1f7-01e2ccbbbf44.png">
+<img width="404" alt="a2" src="https://user-images.githubusercontent.com/115763475/210725559-e81beb43-1064-4640-9aa9-b1d737815827.png">
+
 
 * **Output ubah_data**
 
-<img width="200" alt="j2" src="https://user-images.githubusercontent.com/115516607/210513325-58a3b99e-5b96-4533-b6a6-5a6acf16c5a2.png">
+<img width="203" alt="a3" src="https://user-images.githubusercontent.com/115763475/210726060-5fb8a36d-01b5-4a4f-83e1-dbc5a0e929b8.png">
 
-<img width="419" alt="j5 2" src="https://user-images.githubusercontent.com/115516607/210513354-9c7fca26-78c8-4ece-81f1-be38843934ca.png">
+<img width="413" alt="a4" src="https://user-images.githubusercontent.com/115763475/210726391-74483094-805a-40ab-8921-41ca75f9ef80.png">
+
 
 * **Output Cari_data**
 
-<img width="413" alt="j3" src="https://user-images.githubusercontent.com/115516607/210513550-018c6c56-e175-4657-ac41-c3e2788419bd.png">
+<img width="416" alt="a6" src="https://user-images.githubusercontent.com/115763475/210727007-793773ca-cfe2-4a36-bc42-7c77d25009d4.png">
+
 
 * **Output Hapus_data**
 
-<img width="173" alt="j4" src="https://user-images.githubusercontent.com/115516607/210513657-65b12d03-342e-437d-800a-1833830d77db.png">
+<img width="166" alt="a5" src="https://user-images.githubusercontent.com/115763475/210727212-e82eadd3-d58e-4dfb-adee-e40f7b41c871.png">
 
-<img width="419" alt="j5 3" src="https://user-images.githubusercontent.com/115516607/210513684-25508ba2-6b8d-4147-9721-2fcb81922d4c.png">
+
+<img width="411" alt="a7" src="https://user-images.githubusercontent.com/115763475/210727265-4f9a36b2-fdd0-49df-a549-26180fd3cc16.png">
+
 
 ## **TERIMA KASIH**
