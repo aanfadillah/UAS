@@ -63,7 +63,8 @@ class daftarnilai():
      
 * **Output tambah_data**
 
-<img width="227" alt="j1" src="https://user-images.githubusercontent.com/115516607/210512962-3dfdc379-c173-46a5-ba5a-fff3c1d3f3da.png">
+<img width="217" alt="a1" src="https://user-images.githubusercontent.com/115763475/210725396-05be56c9-e2d0-4944-89a8-cf5b97beea10.png">
+
 
 * **Output daftar_nilai**
 
